@@ -1,0 +1,52 @@
+html,body {max-width: 80%;margin: auto;border: black solid 2px;}
+
+/* CABEÇALHO */
+.cabecalho {width: 100%;height: 20px;background-color:rgb(238, 235, 235);text-align: center;padding-bottom: 20px;}
+.cabecalho img {float: right;padding-right: 80px;}
+
+/*Imagem Perfil */
+.ImagemPerfil {float:left; width: 50%; height: 300px;background-color:rgb(238, 235, 235);border-top: black solid 2px;}
+.ImagemPerfil img {max-width: 30%;float: left; padding: 50px;border-radius: 30%;} 
+#agds {float: center;padding: 23px; font-size: 29px;}
+#Obetivo{padding-top: 0px;text-decoration:underline;font-size: 23px;}
+#Programador{padding-top: 0px;font-size: 23px;}
+
+/*ImagemPerfilP2*/
+.ImagemPerfilP2 {float:right;width: 50%; height: 300px;background-color:rgb(238, 235, 235);border-top: black solid 2px;}
+
+/*Secao1*/
+.Secao1{width: 100%;background-color: rgb(238, 235, 235);padding-bottom: 10px;}
+.Secao1 h2 {border-bottom: black solid;padding-left: 20px;}
+.Secao1 p {padding-left: 50px;text-align: justify;margin: auto;padding-right: 50px;}
+
+/*Secao2*/
+.Secao2{width: 50%;height: 300px;background-color: rgb(238, 235, 235);float: left;}
+.Secao2 h2 {border-bottom: black solid;padding-left: 20px;}
+.Secao2 p {padding-left: 50px;text-align: justify;}
+
+/*Secao3*/
+.Secao3{width: 50%;height: 300px;background-color: rgb(238, 235, 235);float: right;padding-top: 10px;}
+.Secao3 h2 {border-bottom: black solid;}
+.Secao3 p {padding-left: 20px;text-align: justify;padding-right: 30px;}
+
+/*Secao4*/
+.Secao4{width: 100%;background-color: rgb(238, 235, 235);padding-bottom: 1px;}
+.Secao4 h2 {border-bottom: black solid;padding-left: 20px;}
+.Secao4 p {padding-left: 50px;text-align: justify;}
+
+/*Secao5*/
+.Secao5{width: 100%;background-color: rgb(238, 235, 235);padding-bottom: 1px;padding-top: 10px;}
+.Secao5 h2 {border-bottom: black solid;padding-left: 20px;}
+.Secao5 p {padding-left: 50px;text-align: justify;}
+.Secao5 ul {padding-left: 80px;}
+
+/*Secao6*/
+.Secao6{width: 100%;background-color: rgb(238, 235, 235);padding-bottom: 10px;padding-top: 10px;}
+.Secao6 h2 {border-bottom: black solid;padding-left: 20px;}
+.Secao6 p {padding-left: 50px;text-align: justify;}
+.Secao6 ul {padding-left: 80px;}
+
+/*Rodapé*/
+.Rodape {width: 97%;height: 20px;background-color:rgb(238, 235, 235);text-align:center;border: rgb(238, 235, 235) solid 15px;padding-bottom: 2em;margin: auto;}
+
+
